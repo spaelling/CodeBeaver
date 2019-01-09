@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 testing code 
-```
+```powershell
 # Import modules not available by default in Function Apps
 
 $ModulePath = 'D:\home\lib\PSModules'
@@ -17,7 +17,7 @@ Import-Module Az.Accounts
 Import-Module Az.Resources
 ```
 
-```
+```powershell
 <#
 $ModulePath must not already contain the modules or this may fail
 #>
