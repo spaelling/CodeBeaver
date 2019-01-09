@@ -5,8 +5,6 @@ categories: [PowerShell, AzureFunctionApp]
 tags: [PowerShell, AzureFunctionApp]
 ---
 
-# PowerShell Modules in Azure Function App
-
 Below are two articles by Microsoft on how to use PowerShell modules in Azure function app. I do not particurly find any of these very useful.
 
 - [https://blogs.msdn.microsoft.com/powershell/2017/02/24/using-powershell-modules-in-azure-functions/](https://blogs.msdn.microsoft.com/powershell/2017/02/24/using-powershell-modules-in-azure-functions/)
@@ -15,9 +13,7 @@ Below are two articles by Microsoft on how to use PowerShell modules in Azure fu
 Installing a module is rather easy, especially if it is to be found in PSGallery
 
 ```powershell
-<#
-$ModulePath must not already contain the modules or this may fail
-#>
+#$ModulePath must not already contain the modules or this may fail
 
 $ModulePath = 'D:\home\lib\PSModules'
 New-Item -ItemType Directory -Path $ModulePath -Force | Out-Null
