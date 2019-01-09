@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PowerShell Modules in Azure Function App"
-categories: [PowerShell, AzureFunctionApp]
+categories: [Blog]
 tags: [PowerShell, AzureFunctionApp]
 ---
 

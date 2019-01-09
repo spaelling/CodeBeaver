@@ -1,5 +1,10 @@
 theme: jekyll-theme-hacker
-author: Anders Spælling
+
+title: ephos # used in <title> tag & site header
+author: Anders Spælling # used in a <meta> tag & /feed.xml
+description: > # used in a <meta> tag & /feed.xml
+  my description, where does it go?.
+slogan: ❤❤❤❤❤❤❤❤❤ # used in site header, beside title
 url: https://spaelling.github.io/CodeBeaver
 
 plugins:
