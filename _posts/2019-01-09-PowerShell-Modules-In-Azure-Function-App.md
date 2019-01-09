@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "PowerShell Modules in Azure Function App"
+---
+
 # PowerShell Modules in Azure Function App
 
 Below are two articles by Microsoft on how to use PowerShell modules in Azure function app. I do not particurly find any of these very useful.

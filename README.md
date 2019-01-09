@@ -8,7 +8,7 @@ Happy reading!
 
 ## Posts
 
-[PowerShell Modules in Azure Function App](/post/2019-01-09_PowerShellModulesInAzureFunctionApp.md)
+[PowerShell Modules in Azure Function App](/_posts/2019-01-09-PowerShell-Modules-In-Azure-Function-App.md)
 
 ### Posts by theme
 
@@ -16,4 +16,4 @@ Below is listed each post by theme
 
 #### PowerShell
 
-[PowerShell Modules in Azure Function App](/post/2019-01-09_PowerShellModulesInAzureFunctionApp.md)
+[PowerShell Modules in Azure Function App](/_posts/2019-01-09-PowerShell-Modules-In-Azure-Function-App.md)
