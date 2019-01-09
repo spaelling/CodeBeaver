@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "PowerShell Modules in Azure Function App"
-categories: [powershell, functionapp]
-tags: [powershell, functionapp]
+categories: [PowerShell, Azure Function App]
+tags: [PowerShell, Azure Function App]
 ---
 
 # PowerShell Modules in Azure Function App
@@ -60,3 +60,7 @@ Code above is maintained at
 - [HT_InstallModule.ps1](https://github.com/spaelling/AzureFunctionAppSnippets/blob/master/PowerShell/HT_InstallModule.ps1)
 
 Along with other [Function App snippets](https://github.com/spaelling/AzureFunctionAppSnippets)
+
+```powershell
+{% https://raw.githubusercontent.com/spaelling/AzureFunctionAppSnippets/master/PowerShell/HT_ImportModules.ps1 %}
+```
